@@ -1,5 +1,5 @@
-$account_id="YOUR_ACCOUNT_ID"
-$api_key="YOUR_API_KEY"
+$account_id="7f6168d7-5528-454b-8ec4-d8bc5ea4dda2"
+$api_key="4241c91e2f654466a41b30b054289545"
 $location="trial"
 
 # Clear the console window
